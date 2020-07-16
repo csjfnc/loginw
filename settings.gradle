@@ -1,0 +1,3 @@
+include ':loginw'
+include ':app'
+rootProject.name = "loginware"
